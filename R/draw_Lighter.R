@@ -1,6 +1,10 @@
 #'  Draw Lighter relay states
 #'
+#'
+#'
 #'  This is a function that draw Ligther relays states dutring the day.
+#'
+#'
 #'
 #' @param filename A character string giving path and filename where input data has been stored.
 #'
