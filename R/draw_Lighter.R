@@ -1,6 +1,6 @@
 #'  Draw Lighter relay states
 #'
-#'
+#'  test
 #'
 #'  This is a function that draw Ligther relays states dutring the day.
 #'
